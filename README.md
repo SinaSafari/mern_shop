@@ -3,8 +3,8 @@
 
 ## TODO
 - [ ] category
-    - model and ref
-    - search by category
+    - [ ] model and ref
+    - [ ] search by category
 - [ ] save default address of a customer
 - [ ] map integration (for address of reciever)
 - [ ] change ui 
